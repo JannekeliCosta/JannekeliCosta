@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JannekeliCosta
-- 👀 Quero aprender programação e  me tornar desenvolvedora Font-End
+- 👀 Desejo aprender programação e me tornar desenvolvedora Front-End
 - 💞️ Atualmente cursando Sistema para Internet - UNIPÊ
 - 📫  Contato: Jannekelicosta2015@gmail.com
 <!---
